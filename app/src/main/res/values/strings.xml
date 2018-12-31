@@ -1,0 +1,20 @@
+<resources>
+<string name="app_name">HomeWork_3</string>
+
+
+<string name="hello_blank_fragment">Hello blank fragment</string>
+<string name="mySensorList">mySensorList</string>
+<string name="mySensorString">mySensorString</string>
+
+<string-array name="answers">
+    <item> Certain.</item>
+    <item> Without a doubt.</item>
+    <item> Try Again. </item>
+    <item> It is decidedly so.</item>
+    <item> Better not tell you now.</item>
+    <item> Maybe.</item>
+    <item> You should go to a Doctor.</item>
+    <item> You should shoot yourself.</item>
+    <item> Drink some wine and get over it.</item>
+</string-array>
+</resources>
